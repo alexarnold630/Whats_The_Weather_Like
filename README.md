@@ -65,3 +65,6 @@ Run linear regression on each relationship. This time, separate the plots into N
 ### Copyright
 
 Alex Arnold © 2020. All Rights Reserved.
+
+### Contact:
+Alex Arnold: alexnarnold630@gmail.com <br>
